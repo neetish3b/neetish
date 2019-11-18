@@ -110,6 +110,14 @@ In this zone, you will get each and every detail of every single file and coding
         for large device, col__sm-- for tabblet device , col__xs for mobile device )
         global.css (it's use for global entire project in title, heading and btn etc.. )
 
+#### JavaScript
+
+My Entire focus in this app is to build a better application using the correct use of JavaScript. I have tried to put every single line of code on the correct place on the basis of application performance and functionality. I am also trying to write each and everything about all the things that are used in application as a from of Script.
+
+                main.js - I have Imported 4 files in main.js listed below in code format. it's file add on index.html
+                 page show latest, trending, popular movies, quick-view movieApi object to call trending, popular,
+                 latest,genres(forget movies genres)
+
        
 
 
