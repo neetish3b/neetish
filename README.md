@@ -86,6 +86,30 @@ In this zone, you will get each and every detail of every single file and coding
 
 #### CSS
 
+        actor-details.css - Manage actor details and bigraphy Styling.
+        
+        font-awesome.css  - For icons
+        
+        movie-card.css    -  Movie card layout css
+        
+        movie-details.css - Manage movie details page
+        
+        Movie-modal-popup.css - Quick view modal popup css
+        
+        reset.css - Reset User agent stylesheet (Rest Browser css)
+        
+        movie-search.css - movie search page stylesheet
+        
+        screen.css - text-color class and background color class
+        
+        style.css - written css for navbar and import global css file
+        
+        variable.css - written varible of color code and font-family
+        
+        grid.css define global class use grid lay outs 1 to 12 grids and col__1 
+        for large device, col__sm-- for tabblet device , col__xs for mobile device )
+        global.css (it's use for global entire project in title, heading and btn etc.. )
+
        
 
 
