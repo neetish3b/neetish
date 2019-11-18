@@ -134,6 +134,25 @@ My Entire focus in this app is to build a better application using the correct u
     4. utility.js - In this file in define one object utility and methods for use multiple times in diffrent 
     diffrent files.
     
+    5.  actor-detail.js - This file comes in action when actor-details.html come to load in web browser.
+    In this file, actor-details import actor detials api and filmography api pass ACTOR__id
+    and show acotor detilas and filmography filmography in get unique films years and sort in desending order
+    and agin mathch year to film.cast to match release year and show release date,
+    character of actor, movie title and other stuff.
+    
+    6. movie-search.js - In this file import movieApi object and call trending, latest, popular method
+    onkeyup on serach movie by title and genres and also user can filter movies according to movie rating
+    movies rating work as you enter 2 rating movies will be show more than 2 rating values in movies data.
+    
+    7. movie-detail.js - In this file movie-detail import movie api object and call genres, moviedetail,
+    similarMovie method get data createGenres function to match genres key show it's value.
+    
+    8. movie-detail-layout.js- in this file movie-details-layoyt cretea function movieDetailLayout to select
+    moviedetail tempalte tag from moviedetasils html page and insert data as arguments prepare movie details
+    layout structure and dom manipulation also pass one arguments moviDetailId (ID) it's append movie details
+    layout where you want to show
+    
+#### methods name and usage:
     
 
 
