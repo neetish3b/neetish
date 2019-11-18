@@ -124,7 +124,9 @@ My Entire focus in this app is to build a better application using the correct u
     genres api latestMovie: call latest movies trandingMovie: popularMovie: movieDetail: similarMovie: 
     actorDetail: filmography: searchMovie: movie-card create function movieCard() movieCard : select templaet
     tag from html page and insert data as a arguments and also pass one arguments moviCardId for append 
-    moviecard layouts in  webpages where you want to view
+    moviecard layouts in  webpages where you want to view.
+    
+    2. movieCard.js - In this file I have created Movie card lauyout and insert data at a appropriate place.
 
 
 
