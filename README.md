@@ -117,8 +117,14 @@ My Entire focus in this app is to build a better application using the correct u
     main.js - This js file is the main entry point of all the JavaScript files and this file is loaded when
     Index.html file come into the web browser. this file show latest movie, trending movies, popular movies, 
     quick-view of all the movies.
-
-movieapi object to call trnding,popuplar,latest,genres(for get movies genres) movies method
+    There are 4 other js files attach to this file to make this file fully functional. 
+    
+    1. movieApi.js - In this file I have get all the data from TMDB API. 
+    In the same file I have create object movieapi and mthods to call api get data methods : generes: call 
+    genres api latestMovie: call latest movies trandingMovie: popularMovie: movieDetail: similarMovie: 
+    actorDetail: filmography: searchMovie: movie-card create function movieCard() movieCard : select templaet
+    tag from html page and insert data as a arguments and also pass one arguments moviCardId for append 
+    moviecard layouts in  webpages where you want to view
 
 
 
