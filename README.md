@@ -114,7 +114,11 @@ In this zone, you will get each and every detail of every single file and coding
 
 My Entire focus in this app is to build a better application using the correct use of JavaScript. I have tried to put every single line of code on the correct place on the basis of application performance and functionality. I am also trying to write each and everything about all the things that are used in application as a from of Script.
 
-    main.js - This Js file is the main entry point of all the JavaScript files and this file is loaded when
+    main.js - This js file is the main entry point of all the JavaScript files and this file is loaded when
+    Index.html file come into the web browser. this file show latest movie, trending movies, popular movies, 
+    quick-view of all the movies.
+
+movieapi object to call trnding,popuplar,latest,genres(for get movies genres) movies method
 
 
 
