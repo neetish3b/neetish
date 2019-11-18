@@ -21,7 +21,7 @@ A application that displays a list of movies as a list of cards. Each card provi
 7. Movie cast details showing
 8. Filmography & release date
 
-## Basic Files & folder structure
+## Files & folder structure
     │   actor-details.html
     │   index.html
     │   movie-detail.html
@@ -65,7 +65,13 @@ A application that displays a list of movies as a list of cards. Each card provi
                 movie-detail.js
                 movie-search.js
                 utility.js
+                
+## Detailed Info Zone
+In this zone, you will get each and every detail of every single file and coding information. This particular area designed as documentation in this I am trying to write every single piece of information that is used in this project.
 
+#### Index.html 
+You can this file is the entry point of my movie app. In this file, I have only attach one CSS and one JavaScript file. 
+            <link href="./assets/css/style.css" rel="stylesheet">
 
 
 
