@@ -11,5 +11,17 @@ A application that displays a list of movies as a list of cards. Each card provi
     5. Visual Studio Code
     6. Google Chrome Developer Console
     
- ## features
+ ## App functionality
+1. Show latest movies
+2. Popular movies
+3. Trending movies
+4. Movies quick view pop-up
+5. Movie details showing
+6. Similar movies list
+7. Movie cast details showing
+8. Filmography & release date
+
+
+
+
 
