@@ -21,6 +21,19 @@ A application that displays a list of movies as a list of cards. Each card provi
 7. Movie cast details showing
 8. Filmography & release date
 
+## Basic Files & folder structure
+        
+    ├── assets
+    ├    ├────── css       
+    ├    ├────── fonts
+    ├    ├────── images
+    ├    ├────── js
+    ├── index.html
+    ├── movie-detail.html
+    ├── search-movie.html
+    ├── actor-details.html
+    └── Readme.md
+
 
 
 
