@@ -131,7 +131,8 @@ My Entire focus in this app is to build a better application using the correct u
     3. modalPopup.js - In this file modal-popup-layout cretae function modalPopup() it's select template tag
     from html file and insert data as a arguments and show modal popup.
     
-    4. utility.js - In this file in define one object utility and methods for use multiple times in diffrent diffrent files.
+    4. utility.js - In this file in define one object utility and methods for use multiple times in diffrent 
+    diffrent files.
     
     
 
