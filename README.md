@@ -152,7 +152,18 @@ My Entire focus in this app is to build a better application using the correct u
     layout structure and dom manipulation also pass one arguments moviDetailId (ID) it's append movie details
     layout where you want to show
     
-#### methods name and usage:
+#### Methods name and usage:
+dataMap : This use for get value from array and map it's name example cast ['23' : jaquinphonex ] output will jaquinphonex
+
+getIdToURL : it's get id from url (http://127.0.0.1:5502/movie-detail.html?id=475557) that's id pass in api show moviedetails,actor details
+
+starReview : get rating value from api and print star icon
+
+directorName : it's pas job id and and get director name
+
+rating : it's convert 1 to 10 rating in 1 to 5 rating round the value 1.6 to 2 use math.floor
+
+uniqueMovies : pass all movies list data mathch movi's id return unique movie list
     
 
 
