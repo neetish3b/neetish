@@ -22,19 +22,56 @@ A application that displays a list of movies as a list of cards. Each card provi
 8. Filmography & release date
 
 ## Basic Files & folder structure
+    │   actor-details.html
+    │   index.html
+    │   movie-detail.html
+    │   Readme.md
+    │   search-movie.html
+    │
+    └───assets
+        ├───css
+        │       actor-details.css
+        │       font-awesome.css
+        │       global.css
+        │       grid.css
+        │       movie-card.css
+        │       movie-details.css
+        │       movie-modal-popup.css
+        │       movie-search.css
+        │       reset.css
+        │       screen.css
+        │       style.css
+        │       variables.css
+        │
+        ├───fonts
+        │       fontawesome-webfont.eot
+        │       fontawesome-webfont.svg
+        │       fontawesome-webfont.ttf
+        │       fontawesome-webfont.woff
+        │       fontawesome-webfont.woff2
+        │       FontAwesome.otf
+        │
+        ├───images
+        │       placeholder1920X800.jpg
+        │       placeholder300X300.png
+        │
+        └───js
+                actor-detail.js
+                main.js
+                modal-popup-layout.js
+                movie-api.js
+                movie-card.js
+                movie-detail-layout.js
+                movie-detail.js
+                movie-search.js
+                utility.js
+
+
+
+
+
+
+
+
+
         
-    ├── assets
-    ├    ├────── css       
-    ├    ├────── fonts
-    ├    ├────── images
-    ├    ├────── js
-    ├── index.html
-    ├── movie-detail.html
-    ├── search-movie.html
-    ├── actor-details.html
-    └── Readme.md
-
-
-
-
-
