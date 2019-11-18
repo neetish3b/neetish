@@ -96,7 +96,7 @@ In this zone, you will get each and every detail of every single file and coding
         
         Movie-modal-popup.css - Quick view modal popup css
         
-        reset.css - Reset User agent stylesheet (Rest Browser css)
+        reset.css - Reset User agent stylesheet (Reset Browser css)
         
         movie-search.css - movie search page stylesheet
         
@@ -114,9 +114,7 @@ In this zone, you will get each and every detail of every single file and coding
 
 My Entire focus in this app is to build a better application using the correct use of JavaScript. I have tried to put every single line of code on the correct place on the basis of application performance and functionality. I am also trying to write each and everything about all the things that are used in application as a from of Script.
 
-       
-
-
+    main.js - This Js file is the main entry point of all the JavaScript files and this file is loaded when
 
 
 
