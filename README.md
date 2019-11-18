@@ -68,7 +68,8 @@ A application that displays a list of movies as a list of cards. Each card provi
                 
 ## Detailed Info Zone
 In this zone, you will get each and every detail of every single file and coding information. This particular area designed as documentation in this I am trying to write every single piece of information that is used in this project.
-index.html 
+#### HTML
+    index.html 
     You can this file is the entry point of my movie app. 
     In this file, I have only attached one CSS and one JavaScript file.     
     This file load when Url of the app will be open.
@@ -82,6 +83,8 @@ index.html
     search-movie.html
     This file is responsible for a searching movie for showing details 
     and able to apply the filter on this basis of rating.
+
+#### CSS
 
        
 
